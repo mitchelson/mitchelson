@@ -7,7 +7,7 @@
 - :rocket: I’m currently learning Node JS, React JS and React Native at [Rocketseat](https://rocketseat.com.br).
 - :mortar_board: I am a student of systems analysis and development at [UNICESUMA](https://www.unicesumar.edu.br).
 
-- :heart: Love for Dod.
+- :heart: Love for God.
 
 - 🔭 I currently work as a frontend developer.
 - 🌱 I'm digging into JavaScript on the React.js, React Native and Node.js stack, lately studying TypeScript.
