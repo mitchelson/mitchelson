@@ -45,8 +45,8 @@
   <a href="https://nodejs.org/en/">
     <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
   </a>
-  a href="https://nodejs.org/en/">
-    <img align="left" alt="TypeScript" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ficon%2Ftypescript&psig=AOvVaw0B6osYrMssJlFa0nnrpWzX&ust=1598806285771000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDg0tfvwOsCFQAAAAAdAAAAABAD" />
+  <a href="https://www.typescriptlang.org/">
+    <img align="left" alt="TypeScript" width="26px" src="https://developerjas.com/assets/images/icons/ts.png" />
   </a>
   <a href="https://code.visualstudio.com">
     <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
