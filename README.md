@@ -5,7 +5,7 @@
 ### Hey guys `I'm Mitchelson,` welcome to my profile 👋
 
 - :rocket: I’m currently learning Node JS, React JS and React Native at [Rocketseat](https://rocketseat.com.br).
-- :mortar_board: I am a student of systems analysis and development at [UNICESUMA](https://www.unicesumar.edu.br).
+- :mortar_board: I am a student of systems analysis and development at [UNICESUMAR](https://www.unicesumar.edu.br).
 
 - :heart: Love for God.
 
